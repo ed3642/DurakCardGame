@@ -1,0 +1,260 @@
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\CardBox\obj\Debug\CardBox.CardBox.resources
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\CardBox\obj\Debug\Durak.frmGame.resources
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\CardBox\obj\Debug\Durak.frmMainMenu.resources
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\CardBox\obj\Debug\ControlsLib.csproj.GenerateResource.cache
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\CardBox\bin\Debug\ControlsLib.dll
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\CardBox\bin\Debug\ControlsLib.pdb
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\CardBox\bin\Debug\CardLib.dll
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\CardBox\bin\Debug\CardLib.pdb
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\CardBox\obj\Debug\ControlsLib.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\CardBox\obj\Debug\ControlsLib.csproj.CopyComplete
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\CardBox\obj\Debug\ControlsLib.dll
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\CardBox\obj\Debug\ControlsLib.pdb
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\ControlsLib\bin\Debug\ControlsLib.dll
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\ControlsLib\bin\Debug\ControlsLib.pdb
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\ControlsLib\bin\Debug\CardLib.dll
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\ControlsLib\bin\Debug\CardLib.pdb
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\ControlsLib\obj\Debug\ControlsLib.csprojAssemblyReference.cache
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\ControlsLib\obj\Debug\CardBox.CardBox.resources
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\ControlsLib\obj\Debug\Durak.frmGame.resources
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\ControlsLib\obj\Debug\Durak.frmMainMenu.resources
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\ControlsLib\obj\Debug\ControlsLib.csproj.GenerateResource.cache
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\ControlsLib\obj\Debug\ControlsLib.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\ControlsLib\obj\Debug\ControlsLib.csproj.CopyComplete
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\ControlsLib\obj\Debug\ControlsLib.dll
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\ControlsLib\obj\Debug\ControlsLib.pdb
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\ControlsLib\obj\Debug\ControlsLib.Properties.Resources.resources
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\ControlsLib\obj\Debug\ControlsLib.frmRules.resources
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\ControlsLib\obj\Debug\ControlsLib.frmLogs.resources
+C:\Users\Scott Alton\Source\Repos\OOPDurakProject\ControlsLib\bin\Debug\ControlsLib.dll
+C:\Users\Scott Alton\Source\Repos\OOPDurakProject\ControlsLib\bin\Debug\ControlsLib.pdb
+C:\Users\Scott Alton\Source\Repos\OOPDurakProject\ControlsLib\bin\Debug\CardLib.dll
+C:\Users\Scott Alton\Source\Repos\OOPDurakProject\ControlsLib\bin\Debug\CardLib.pdb
+C:\Users\Scott Alton\Source\Repos\OOPDurakProject\ControlsLib\obj\Debug\ControlsLib.csprojAssemblyReference.cache
+C:\Users\Scott Alton\Source\Repos\OOPDurakProject\ControlsLib\obj\Debug\CardBox.CardBox.resources
+C:\Users\Scott Alton\Source\Repos\OOPDurakProject\ControlsLib\obj\Debug\Durak.frmGame.resources
+C:\Users\Scott Alton\Source\Repos\OOPDurakProject\ControlsLib\obj\Debug\ControlsLib.frmLogs.resources
+C:\Users\Scott Alton\Source\Repos\OOPDurakProject\ControlsLib\obj\Debug\Durak.frmMainMenu.resources
+C:\Users\Scott Alton\Source\Repos\OOPDurakProject\ControlsLib\obj\Debug\ControlsLib.Properties.Resources.resources
+C:\Users\Scott Alton\Source\Repos\OOPDurakProject\ControlsLib\obj\Debug\ControlsLib.frmRules.resources
+C:\Users\Scott Alton\Source\Repos\OOPDurakProject\ControlsLib\obj\Debug\ControlsLib.csproj.GenerateResource.cache
+C:\Users\Scott Alton\Source\Repos\OOPDurakProject\ControlsLib\obj\Debug\ControlsLib.csproj.CoreCompileInputs.cache
+C:\Users\Scott Alton\Source\Repos\OOPDurakProject\ControlsLib\obj\Debug\ControlsLib.csproj.CopyComplete
+C:\Users\Scott Alton\Source\Repos\OOPDurakProject\ControlsLib\obj\Debug\ControlsLib.dll
+C:\Users\Scott Alton\Source\Repos\OOPDurakProject\ControlsLib\obj\Debug\ControlsLib.pdb
+C:\Users\Scott Alton\Source\Repos\DurakGame2\ControlsLib\bin\Debug\ControlsLib.dll
+C:\Users\Scott Alton\Source\Repos\DurakGame2\ControlsLib\bin\Debug\ControlsLib.pdb
+C:\Users\Scott Alton\Source\Repos\DurakGame2\ControlsLib\bin\Debug\CardLib.dll
+C:\Users\Scott Alton\Source\Repos\DurakGame2\ControlsLib\bin\Debug\CardLib.pdb
+C:\Users\Scott Alton\Source\Repos\DurakGame2\ControlsLib\obj\Debug\ControlsLib.csprojAssemblyReference.cache
+C:\Users\Scott Alton\Source\Repos\DurakGame2\ControlsLib\obj\Debug\CardBox.CardBox.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame2\ControlsLib\obj\Debug\Durak.frmGame.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame2\ControlsLib\obj\Debug\ControlsLib.frmLogs.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame2\ControlsLib\obj\Debug\Durak.frmMainMenu.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame2\ControlsLib\obj\Debug\ControlsLib.Properties.Resources.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame2\ControlsLib\obj\Debug\ControlsLib.frmRules.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame2\ControlsLib\obj\Debug\ControlsLib.csproj.GenerateResource.cache
+C:\Users\Scott Alton\Source\Repos\DurakGame2\ControlsLib\obj\Debug\ControlsLib.csproj.CoreCompileInputs.cache
+C:\Users\Scott Alton\Source\Repos\DurakGame2\ControlsLib\obj\Debug\ControlsLib.csproj.CopyComplete
+C:\Users\Scott Alton\Source\Repos\DurakGame2\ControlsLib\obj\Debug\ControlsLib.dll
+C:\Users\Scott Alton\Source\Repos\DurakGame2\ControlsLib\obj\Debug\ControlsLib.pdb
+C:\Users\Nick\Source\Repos\DurakGame\ControlsLib\bin\Debug\ControlsLib.dll
+C:\Users\Nick\Source\Repos\DurakGame\ControlsLib\bin\Debug\ControlsLib.pdb
+C:\Users\Nick\Source\Repos\DurakGame\ControlsLib\bin\Debug\CardLib.dll
+C:\Users\Nick\Source\Repos\DurakGame\ControlsLib\bin\Debug\CardLib.pdb
+C:\Users\Nick\Source\Repos\DurakGame\ControlsLib\obj\Debug\ControlsLib.csprojAssemblyReference.cache
+C:\Users\Nick\Source\Repos\DurakGame\ControlsLib\obj\Debug\CardBox.CardBox.resources
+C:\Users\Nick\Source\Repos\DurakGame\ControlsLib\obj\Debug\Durak.frmGame.resources
+C:\Users\Nick\Source\Repos\DurakGame\ControlsLib\obj\Debug\ControlsLib.frmLogs.resources
+C:\Users\Nick\Source\Repos\DurakGame\ControlsLib\obj\Debug\Durak.frmMainMenu.resources
+C:\Users\Nick\Source\Repos\DurakGame\ControlsLib\obj\Debug\ControlsLib.Properties.Resources.resources
+C:\Users\Nick\Source\Repos\DurakGame\ControlsLib\obj\Debug\ControlsLib.frmRules.resources
+C:\Users\Nick\Source\Repos\DurakGame\ControlsLib\obj\Debug\ControlsLib.csproj.GenerateResource.cache
+C:\Users\Nick\Source\Repos\DurakGame\ControlsLib\obj\Debug\ControlsLib.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Source\Repos\DurakGame\ControlsLib\obj\Debug\ControlsLib.csproj.CopyComplete
+C:\Users\Nick\Source\Repos\DurakGame\ControlsLib\obj\Debug\ControlsLib.dll
+C:\Users\Nick\Source\Repos\DurakGame\ControlsLib\obj\Debug\ControlsLib.pdb
+C:\Users\Scott Alton\Source\Repos\DurakGame3\ControlsLib\bin\Debug\ControlsLib.dll
+C:\Users\Scott Alton\Source\Repos\DurakGame3\ControlsLib\bin\Debug\ControlsLib.pdb
+C:\Users\Scott Alton\Source\Repos\DurakGame3\ControlsLib\bin\Debug\CardLib.dll
+C:\Users\Scott Alton\Source\Repos\DurakGame3\ControlsLib\bin\Debug\CardLib.pdb
+C:\Users\Scott Alton\Source\Repos\DurakGame3\ControlsLib\obj\Debug\ControlsLib.csprojAssemblyReference.cache
+C:\Users\Scott Alton\Source\Repos\DurakGame3\ControlsLib\obj\Debug\CardBox.CardBox.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame3\ControlsLib\obj\Debug\Durak.frmGame.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame3\ControlsLib\obj\Debug\ControlsLib.frmLogs.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame3\ControlsLib\obj\Debug\Durak.frmMainMenu.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame3\ControlsLib\obj\Debug\ControlsLib.Properties.Resources.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame3\ControlsLib\obj\Debug\ControlsLib.frmRules.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame3\ControlsLib\obj\Debug\ControlsLib.csproj.GenerateResource.cache
+C:\Users\Scott Alton\Source\Repos\DurakGame3\ControlsLib\obj\Debug\ControlsLib.csproj.CoreCompileInputs.cache
+C:\Users\Scott Alton\Source\Repos\DurakGame3\ControlsLib\obj\Debug\ControlsLib.csproj.CopyComplete
+C:\Users\Scott Alton\Source\Repos\DurakGame3\ControlsLib\obj\Debug\ControlsLib.dll
+C:\Users\Scott Alton\Source\Repos\DurakGame3\ControlsLib\obj\Debug\ControlsLib.pdb
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakMain\ControlsLib\bin\Debug\ControlsLib.dll
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakMain\ControlsLib\bin\Debug\ControlsLib.pdb
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakMain\ControlsLib\bin\Debug\CardLib.dll
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakMain\ControlsLib\bin\Debug\CardLib.pdb
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakMain\ControlsLib\obj\Debug\ControlsLib.csprojAssemblyReference.cache
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakMain\ControlsLib\obj\Debug\CardBox.CardBox.resources
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakMain\ControlsLib\obj\Debug\Durak.frmGame.resources
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakMain\ControlsLib\obj\Debug\ControlsLib.frmLogs.resources
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakMain\ControlsLib\obj\Debug\Durak.frmMainMenu.resources
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakMain\ControlsLib\obj\Debug\ControlsLib.Properties.Resources.resources
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakMain\ControlsLib\obj\Debug\ControlsLib.frmRules.resources
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakMain\ControlsLib\obj\Debug\ControlsLib.csproj.GenerateResource.cache
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakMain\ControlsLib\obj\Debug\ControlsLib.csproj.CoreCompileInputs.cache
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakMain\ControlsLib\obj\Debug\ControlsLib.csproj.CopyComplete
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakMain\ControlsLib\obj\Debug\ControlsLib.dll
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakMain\ControlsLib\obj\Debug\ControlsLib.pdb
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakMain\ControlsLib\obj\Debug\ControlsLib.StatsPrompt.resources
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakMain\ControlsLib\obj\Debug\ControlsLib.UsernameInput.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame5\ControlsLib\bin\Debug\ControlsLib.dll
+C:\Users\Scott Alton\Source\Repos\DurakGame5\ControlsLib\bin\Debug\ControlsLib.pdb
+C:\Users\Scott Alton\Source\Repos\DurakGame5\ControlsLib\bin\Debug\CardLib.dll
+C:\Users\Scott Alton\Source\Repos\DurakGame5\ControlsLib\bin\Debug\CardLib.pdb
+C:\Users\Scott Alton\Source\Repos\DurakGame5\ControlsLib\obj\Debug\ControlsLib.csprojAssemblyReference.cache
+C:\Users\Scott Alton\Source\Repos\DurakGame5\ControlsLib\obj\Debug\CardBox.CardBox.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame5\ControlsLib\obj\Debug\Durak.frmGame.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame5\ControlsLib\obj\Debug\ControlsLib.frmLogs.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame5\ControlsLib\obj\Debug\Durak.frmMainMenu.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame5\ControlsLib\obj\Debug\ControlsLib.Properties.Resources.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame5\ControlsLib\obj\Debug\ControlsLib.frmRules.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame5\ControlsLib\obj\Debug\ControlsLib.StatsPrompt.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame5\ControlsLib\obj\Debug\ControlsLib.UsernameInput.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame5\ControlsLib\obj\Debug\ControlsLib.csproj.GenerateResource.cache
+C:\Users\Scott Alton\Source\Repos\DurakGame5\ControlsLib\obj\Debug\ControlsLib.csproj.CoreCompileInputs.cache
+C:\Users\Scott Alton\Source\Repos\DurakGame5\ControlsLib\obj\Debug\ControlsLib.csproj.CopyComplete
+C:\Users\Scott Alton\Source\Repos\DurakGame5\ControlsLib\obj\Debug\ControlsLib.dll
+C:\Users\Scott Alton\Source\Repos\DurakGame5\ControlsLib\obj\Debug\ControlsLib.pdb
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakPlayground\ControlsLib\bin\Debug\ControlsLib.dll
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakPlayground\ControlsLib\bin\Debug\ControlsLib.pdb
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakPlayground\ControlsLib\bin\Debug\CardLib.dll
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakPlayground\ControlsLib\bin\Debug\CardLib.pdb
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakPlayground\ControlsLib\obj\Debug\ControlsLib.csprojAssemblyReference.cache
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakPlayground\ControlsLib\obj\Debug\CardBox.CardBox.resources
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakPlayground\ControlsLib\obj\Debug\Durak.frmGame.resources
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakPlayground\ControlsLib\obj\Debug\ControlsLib.frmLogs.resources
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakPlayground\ControlsLib\obj\Debug\Durak.frmMainMenu.resources
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakPlayground\ControlsLib\obj\Debug\ControlsLib.Properties.Resources.resources
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakPlayground\ControlsLib\obj\Debug\ControlsLib.frmRules.resources
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakPlayground\ControlsLib\obj\Debug\ControlsLib.StatsPrompt.resources
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakPlayground\ControlsLib\obj\Debug\ControlsLib.UsernameInput.resources
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakPlayground\ControlsLib\obj\Debug\ControlsLib.csproj.GenerateResource.cache
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakPlayground\ControlsLib\obj\Debug\ControlsLib.csproj.CoreCompileInputs.cache
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakPlayground\ControlsLib\obj\Debug\ControlsLib.csproj.CopyComplete
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakPlayground\ControlsLib\obj\Debug\ControlsLib.dll
+D:\Computer Programmer DC\Semester 4\OOP\Final Project\DurakPlayground\ControlsLib\obj\Debug\ControlsLib.pdb
+C:\Users\Scott Alton\Source\Repos\DurakGame9\ControlsLib\bin\Debug\ControlsLib.dll
+C:\Users\Scott Alton\Source\Repos\DurakGame9\ControlsLib\bin\Debug\ControlsLib.pdb
+C:\Users\Scott Alton\Source\Repos\DurakGame9\ControlsLib\bin\Debug\CardLib.dll
+C:\Users\Scott Alton\Source\Repos\DurakGame9\ControlsLib\bin\Debug\CardLib.pdb
+C:\Users\Scott Alton\Source\Repos\DurakGame9\ControlsLib\obj\Debug\ControlsLib.csprojAssemblyReference.cache
+C:\Users\Scott Alton\Source\Repos\DurakGame9\ControlsLib\obj\Debug\CardBox.CardBox.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame9\ControlsLib\obj\Debug\Durak.frmGame.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame9\ControlsLib\obj\Debug\ControlsLib.frmLogs.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame9\ControlsLib\obj\Debug\Durak.frmMainMenu.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame9\ControlsLib\obj\Debug\ControlsLib.Properties.Resources.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame9\ControlsLib\obj\Debug\ControlsLib.frmRules.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame9\ControlsLib\obj\Debug\ControlsLib.StatsPrompt.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame9\ControlsLib\obj\Debug\ControlsLib.UsernameInput.resources
+C:\Users\Scott Alton\Source\Repos\DurakGame9\ControlsLib\obj\Debug\ControlsLib.csproj.GenerateResource.cache
+C:\Users\Scott Alton\Source\Repos\DurakGame9\ControlsLib\obj\Debug\ControlsLib.csproj.CoreCompileInputs.cache
+C:\Users\Scott Alton\Source\Repos\DurakGame9\ControlsLib\obj\Debug\ControlsLib.csproj.CopyComplete
+C:\Users\Scott Alton\Source\Repos\DurakGame9\ControlsLib\obj\Debug\ControlsLib.dll
+C:\Users\Scott Alton\Source\Repos\DurakGame9\ControlsLib\obj\Debug\ControlsLib.pdb
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\ControlsLib\obj\Debug\ControlsLib.StatsPrompt.resources
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\ControlsLib\obj\Debug\ControlsLib.UsernameInput.resources
+C:\Users\Scott Alton\Desktop\OOP\DurakGame\ControlsLib\bin\Debug\ControlsLib.dll
+C:\Users\Scott Alton\Desktop\OOP\DurakGame\ControlsLib\bin\Debug\ControlsLib.pdb
+C:\Users\Scott Alton\Desktop\OOP\DurakGame\ControlsLib\bin\Debug\CardLib.dll
+C:\Users\Scott Alton\Desktop\OOP\DurakGame\ControlsLib\bin\Debug\CardLib.pdb
+C:\Users\Scott Alton\Desktop\OOP\DurakGame\ControlsLib\obj\Debug\ControlsLib.csprojAssemblyReference.cache
+C:\Users\Scott Alton\Desktop\OOP\DurakGame\ControlsLib\obj\Debug\CardBox.CardBox.resources
+C:\Users\Scott Alton\Desktop\OOP\DurakGame\ControlsLib\obj\Debug\Durak.frmGame.resources
+C:\Users\Scott Alton\Desktop\OOP\DurakGame\ControlsLib\obj\Debug\ControlsLib.frmLogs.resources
+C:\Users\Scott Alton\Desktop\OOP\DurakGame\ControlsLib\obj\Debug\Durak.frmMainMenu.resources
+C:\Users\Scott Alton\Desktop\OOP\DurakGame\ControlsLib\obj\Debug\ControlsLib.Properties.Resources.resources
+C:\Users\Scott Alton\Desktop\OOP\DurakGame\ControlsLib\obj\Debug\ControlsLib.frmRules.resources
+C:\Users\Scott Alton\Desktop\OOP\DurakGame\ControlsLib\obj\Debug\ControlsLib.StatsPrompt.resources
+C:\Users\Scott Alton\Desktop\OOP\DurakGame\ControlsLib\obj\Debug\ControlsLib.UsernameInput.resources
+C:\Users\Scott Alton\Desktop\OOP\DurakGame\ControlsLib\obj\Debug\ControlsLib.csproj.GenerateResource.cache
+C:\Users\Scott Alton\Desktop\OOP\DurakGame\ControlsLib\obj\Debug\ControlsLib.csproj.CoreCompileInputs.cache
+C:\Users\Scott Alton\Desktop\OOP\DurakGame\ControlsLib\obj\Debug\ControlsLib.csproj.CopyComplete
+C:\Users\Scott Alton\Desktop\OOP\DurakGame\ControlsLib\obj\Debug\ControlsLib.dll
+C:\Users\Scott Alton\Desktop\OOP\DurakGame\ControlsLib\obj\Debug\ControlsLib.pdb
+D:\Computer Programmer DC\Semester 4\OOP\DurakWednesday\ControlsLib\bin\Debug\ControlsLib.dll
+D:\Computer Programmer DC\Semester 4\OOP\DurakWednesday\ControlsLib\bin\Debug\ControlsLib.pdb
+D:\Computer Programmer DC\Semester 4\OOP\DurakWednesday\ControlsLib\bin\Debug\CardLib.dll
+D:\Computer Programmer DC\Semester 4\OOP\DurakWednesday\ControlsLib\bin\Debug\CardLib.pdb
+D:\Computer Programmer DC\Semester 4\OOP\DurakWednesday\ControlsLib\obj\Debug\ControlsLib.csprojAssemblyReference.cache
+D:\Computer Programmer DC\Semester 4\OOP\DurakWednesday\ControlsLib\obj\Debug\CardBox.CardBox.resources
+D:\Computer Programmer DC\Semester 4\OOP\DurakWednesday\ControlsLib\obj\Debug\Durak.frmGame.resources
+D:\Computer Programmer DC\Semester 4\OOP\DurakWednesday\ControlsLib\obj\Debug\ControlsLib.frmLogs.resources
+D:\Computer Programmer DC\Semester 4\OOP\DurakWednesday\ControlsLib\obj\Debug\Durak.frmMainMenu.resources
+D:\Computer Programmer DC\Semester 4\OOP\DurakWednesday\ControlsLib\obj\Debug\ControlsLib.Properties.Resources.resources
+D:\Computer Programmer DC\Semester 4\OOP\DurakWednesday\ControlsLib\obj\Debug\ControlsLib.frmRules.resources
+D:\Computer Programmer DC\Semester 4\OOP\DurakWednesday\ControlsLib\obj\Debug\ControlsLib.StatsPrompt.resources
+D:\Computer Programmer DC\Semester 4\OOP\DurakWednesday\ControlsLib\obj\Debug\ControlsLib.UsernameInput.resources
+D:\Computer Programmer DC\Semester 4\OOP\DurakWednesday\ControlsLib\obj\Debug\ControlsLib.csproj.GenerateResource.cache
+D:\Computer Programmer DC\Semester 4\OOP\DurakWednesday\ControlsLib\obj\Debug\ControlsLib.csproj.CoreCompileInputs.cache
+D:\Computer Programmer DC\Semester 4\OOP\DurakWednesday\ControlsLib\obj\Debug\ControlsLib.csproj.CopyComplete
+D:\Computer Programmer DC\Semester 4\OOP\DurakWednesday\ControlsLib\obj\Debug\ControlsLib.dll
+D:\Computer Programmer DC\Semester 4\OOP\DurakWednesday\ControlsLib\obj\Debug\ControlsLib.pdb
+C:\Users\Eduardo's PC\Documents\CSharp-Workspace\DurakGame\ControlsLib\obj\Debug\ControlsLib.frmSelectDeckSize.resources
+D:\Computer Programmer DC\Semester 4\OOP\DurakThursday\ControlsLib\bin\Debug\ControlsLib.dll
+D:\Computer Programmer DC\Semester 4\OOP\DurakThursday\ControlsLib\bin\Debug\ControlsLib.pdb
+D:\Computer Programmer DC\Semester 4\OOP\DurakThursday\ControlsLib\bin\Debug\CardLib.dll
+D:\Computer Programmer DC\Semester 4\OOP\DurakThursday\ControlsLib\bin\Debug\CardLib.pdb
+D:\Computer Programmer DC\Semester 4\OOP\DurakThursday\ControlsLib\obj\Debug\ControlsLib.csprojAssemblyReference.cache
+D:\Computer Programmer DC\Semester 4\OOP\DurakThursday\ControlsLib\obj\Debug\CardBox.CardBox.resources
+D:\Computer Programmer DC\Semester 4\OOP\DurakThursday\ControlsLib\obj\Debug\Durak.frmGame.resources
+D:\Computer Programmer DC\Semester 4\OOP\DurakThursday\ControlsLib\obj\Debug\ControlsLib.frmLogs.resources
+D:\Computer Programmer DC\Semester 4\OOP\DurakThursday\ControlsLib\obj\Debug\Durak.frmMainMenu.resources
+D:\Computer Programmer DC\Semester 4\OOP\DurakThursday\ControlsLib\obj\Debug\ControlsLib.Properties.Resources.resources
+D:\Computer Programmer DC\Semester 4\OOP\DurakThursday\ControlsLib\obj\Debug\ControlsLib.frmRules.resources
+D:\Computer Programmer DC\Semester 4\OOP\DurakThursday\ControlsLib\obj\Debug\ControlsLib.frmSelectDeckSize.resources
+D:\Computer Programmer DC\Semester 4\OOP\DurakThursday\ControlsLib\obj\Debug\ControlsLib.StatsPrompt.resources
+D:\Computer Programmer DC\Semester 4\OOP\DurakThursday\ControlsLib\obj\Debug\ControlsLib.UsernameInput.resources
+D:\Computer Programmer DC\Semester 4\OOP\DurakThursday\ControlsLib\obj\Debug\ControlsLib.csproj.GenerateResource.cache
+D:\Computer Programmer DC\Semester 4\OOP\DurakThursday\ControlsLib\obj\Debug\ControlsLib.csproj.CoreCompileInputs.cache
+D:\Computer Programmer DC\Semester 4\OOP\DurakThursday\ControlsLib\obj\Debug\ControlsLib.csproj.CopyComplete
+D:\Computer Programmer DC\Semester 4\OOP\DurakThursday\ControlsLib\obj\Debug\ControlsLib.dll
+D:\Computer Programmer DC\Semester 4\OOP\DurakThursday\ControlsLib\obj\Debug\ControlsLib.pdb
+C:\Users\Scott Alton\Desktop\OOP\Durak3\ControlsLib\bin\Debug\ControlsLib.dll
+C:\Users\Scott Alton\Desktop\OOP\Durak3\ControlsLib\bin\Debug\ControlsLib.pdb
+C:\Users\Scott Alton\Desktop\OOP\Durak3\ControlsLib\bin\Debug\CardLib.dll
+C:\Users\Scott Alton\Desktop\OOP\Durak3\ControlsLib\bin\Debug\CardLib.pdb
+C:\Users\Scott Alton\Desktop\OOP\Durak3\ControlsLib\obj\Debug\ControlsLib.csprojAssemblyReference.cache
+C:\Users\Scott Alton\Desktop\OOP\Durak3\ControlsLib\obj\Debug\CardBox.CardBox.resources
+C:\Users\Scott Alton\Desktop\OOP\Durak3\ControlsLib\obj\Debug\Durak.frmGame.resources
+C:\Users\Scott Alton\Desktop\OOP\Durak3\ControlsLib\obj\Debug\ControlsLib.frmLogs.resources
+C:\Users\Scott Alton\Desktop\OOP\Durak3\ControlsLib\obj\Debug\Durak.frmMainMenu.resources
+C:\Users\Scott Alton\Desktop\OOP\Durak3\ControlsLib\obj\Debug\ControlsLib.Properties.Resources.resources
+C:\Users\Scott Alton\Desktop\OOP\Durak3\ControlsLib\obj\Debug\ControlsLib.frmRules.resources
+C:\Users\Scott Alton\Desktop\OOP\Durak3\ControlsLib\obj\Debug\ControlsLib.frmSelectDeckSize.resources
+C:\Users\Scott Alton\Desktop\OOP\Durak3\ControlsLib\obj\Debug\ControlsLib.StatsPrompt.resources
+C:\Users\Scott Alton\Desktop\OOP\Durak3\ControlsLib\obj\Debug\ControlsLib.UsernameInput.resources
+C:\Users\Scott Alton\Desktop\OOP\Durak3\ControlsLib\obj\Debug\ControlsLib.csproj.GenerateResource.cache
+C:\Users\Scott Alton\Desktop\OOP\Durak3\ControlsLib\obj\Debug\ControlsLib.csproj.CoreCompileInputs.cache
+C:\Users\Scott Alton\Desktop\OOP\Durak3\ControlsLib\obj\Debug\ControlsLib.csproj.CopyComplete
+C:\Users\Scott Alton\Desktop\OOP\Durak3\ControlsLib\obj\Debug\ControlsLib.dll
+C:\Users\Scott Alton\Desktop\OOP\Durak3\ControlsLib\obj\Debug\ControlsLib.pdb
+C:\Users\easmc\Downloads\DurakFinalGame-main\DurakFinalGame-main\ControlsLib\bin\Debug\ControlsLib.dll
+C:\Users\easmc\Downloads\DurakFinalGame-main\DurakFinalGame-main\ControlsLib\bin\Debug\ControlsLib.pdb
+C:\Users\easmc\Downloads\DurakFinalGame-main\DurakFinalGame-main\ControlsLib\bin\Debug\CardLib.dll
+C:\Users\easmc\Downloads\DurakFinalGame-main\DurakFinalGame-main\ControlsLib\bin\Debug\CardLib.pdb
+C:\Users\easmc\Downloads\DurakFinalGame-main\DurakFinalGame-main\ControlsLib\obj\Debug\ControlsLib.csprojAssemblyReference.cache
+C:\Users\easmc\Downloads\DurakFinalGame-main\DurakFinalGame-main\ControlsLib\obj\Debug\CardBox.CardBox.resources
+C:\Users\easmc\Downloads\DurakFinalGame-main\DurakFinalGame-main\ControlsLib\obj\Debug\Durak.frmGame.resources
+C:\Users\easmc\Downloads\DurakFinalGame-main\DurakFinalGame-main\ControlsLib\obj\Debug\ControlsLib.frmLogs.resources
+C:\Users\easmc\Downloads\DurakFinalGame-main\DurakFinalGame-main\ControlsLib\obj\Debug\Durak.frmMainMenu.resources
+C:\Users\easmc\Downloads\DurakFinalGame-main\DurakFinalGame-main\ControlsLib\obj\Debug\ControlsLib.Properties.Resources.resources
+C:\Users\easmc\Downloads\DurakFinalGame-main\DurakFinalGame-main\ControlsLib\obj\Debug\ControlsLib.frmRules.resources
+C:\Users\easmc\Downloads\DurakFinalGame-main\DurakFinalGame-main\ControlsLib\obj\Debug\ControlsLib.frmSelectDeckSize.resources
+C:\Users\easmc\Downloads\DurakFinalGame-main\DurakFinalGame-main\ControlsLib\obj\Debug\ControlsLib.StatsPrompt.resources
+C:\Users\easmc\Downloads\DurakFinalGame-main\DurakFinalGame-main\ControlsLib\obj\Debug\ControlsLib.UsernameInput.resources
+C:\Users\easmc\Downloads\DurakFinalGame-main\DurakFinalGame-main\ControlsLib\obj\Debug\ControlsLib.csproj.GenerateResource.cache
+C:\Users\easmc\Downloads\DurakFinalGame-main\DurakFinalGame-main\ControlsLib\obj\Debug\ControlsLib.csproj.CoreCompileInputs.cache
+C:\Users\easmc\Downloads\DurakFinalGame-main\DurakFinalGame-main\ControlsLib\obj\Debug\ControlsLib.csproj.CopyComplete
+C:\Users\easmc\Downloads\DurakFinalGame-main\DurakFinalGame-main\ControlsLib\obj\Debug\ControlsLib.dll
+C:\Users\easmc\Downloads\DurakFinalGame-main\DurakFinalGame-main\ControlsLib\obj\Debug\ControlsLib.pdb

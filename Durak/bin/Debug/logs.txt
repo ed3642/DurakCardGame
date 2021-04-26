@@ -1,0 +1,21 @@
+The current time is: 2021-04-26 12:56:37 PM
+
+Player chose a deck of 20 cards.
+Initial Deal Starting: 
+
+Player draws Suit: Hearts of Queen
+Computer draws Suit: Spades of Ten
+Player draws Suit: Spades of King
+Computer draws Suit: Diamonds of Jack
+Player draws Suit: Diamonds of Ace
+Computer draws Suit: Spades of Queen
+Player draws Suit: Diamonds of Ten
+Computer draws Suit: Hearts of Ten
+Player draws Suit: Diamonds of King
+Computer draws Suit: Clubs of Queen
+Player draws Suit: Clubs of Ace
+Computer draws Suit: Spades of Ace
+Player has started the game
+Players plays Suit: Diamonds of King
+Computer responds with Suit: Spades of Ace
+Player closed the game
